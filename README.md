@@ -50,3 +50,8 @@ Let's send out updated file back to GitHub to update the repo.
 This way does not work for me.
 
 Go back into your GitHub and checkout your updated repo!
+
+EXTRA NOTES
+
+- To check what your origin url is set at type: git remote -v
+- If you have more then one file you need to add you can type: git add --all
