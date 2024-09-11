@@ -55,3 +55,10 @@ EXTRA NOTES
 
 - To check what your origin url is set at type: git remote -v
 - If you have more then one file you need to add you can type: git add --all
+- To check what changes were made to your file type: git diff (filename)
+- To get more information about your file type: git log
+
+
+* Will update once I learn more
+?- git checkout master
+?- Lets say you messed up really bad on a commit and broke your website you can type: git checkout (copy and paste commit hash from where you want to go back to using: git log). Your code should be changed.
